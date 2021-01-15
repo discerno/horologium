@@ -1,6 +1,6 @@
 # Horologium
 
-A minimalist Firefox extension that keeps track of time you spent on various websites.
+A minimalist Firefox extension that keeps track of time you spend on various websites.
 
 ## Features
 
