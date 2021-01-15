@@ -1,0 +1,35 @@
+body {
+  margin: 0px;
+  min-width: 250px;
+  padding: 0px;
+  text-align: center;
+}
+div {
+  margin: 0px auto;
+  padding: 0px;
+  text-align: center;
+  width: 90%;
+}
+#info {
+  cursor: default;
+  margin: 0px;
+  padding: 10px 0px;
+  width: 100%;
+}
+#add {
+  background: #ffffff;
+  border: 1px solid black;
+  border-radius: 4px;
+  margin: 10px;
+}
+#add:hover {
+  background: #dddddd;
+  cursor: pointer;
+}
+#slider {
+  width: 100%;
+}
+#limitContainer {
+  cursor: default;
+  padding-bottom: 5px;
+}
