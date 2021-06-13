@@ -10,7 +10,7 @@ A minimalist Firefox extension that keeps track of time you spend on various web
 
 ## Setup
 
-* Click "Add & reload" to add a website Please, be aware that the current page will be reloaded immediately
+* Click "Add & reload" to add a website. Please, be aware that the current page will be reloaded immediately
 * The extension tracks time per domain name – example.com and something.example.com are tracked separately
 * Use a slider to select your preferred time limit from 30 to 90 minutes
 * Click the extension's icon at a toolbar to view how much time you have spent today
